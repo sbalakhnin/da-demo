@@ -4,10 +4,7 @@
       "id": "library",
       "title": "Library",
       "environments": ["edit"],
-      "url": "/tools/sidekick/library.html",
-      "config": {
-        "library": "/tools/sidekick/library"
-      }
+      "url": "/tools/sidekick/library.html"
     }
   ]
 }
