@@ -5,7 +5,6 @@
       "title": "Library",
       "environments": ["edit"],
       "url": "https://www.aem.live/tools/sidekick/library.html",
-      "includePaths": ["**.docx**"],
       "config": {
         "library": "/tools/sidekick/library"
       }
